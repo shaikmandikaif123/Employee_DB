@@ -1,5 +1,7 @@
 package org.example;
 
+import org.example.Abstraction.ApplicationStatusManager;
+
 // Admin-specific status management (Polymorphism via Inheritance)
 public class AdminStatusManager extends ApplicationStatusManager {
     @Override

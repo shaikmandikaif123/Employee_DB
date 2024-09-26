@@ -1,12 +1,15 @@
-package org.example;
+package org.example.Inheritance;
+
+import org.example.CreditCardApplication;
 
 // Inherited class for Premium Credit Card Application
 public class PremiumCardApplication extends CreditCardApplication {
     public PremiumCardApplication(String applicantName, double annualIncome) {
+
         super(applicantName, annualIncome);
     }
 
-    // Polymorphism: Override methods for specific behavior
+    // Polymorphism :-Override methods for specific behavior
     @Override
     public void approveApplication() {
         if(getAnnualIncome() > 75000) {

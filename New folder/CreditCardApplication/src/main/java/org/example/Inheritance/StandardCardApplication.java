@@ -1,4 +1,6 @@
-package org.example;
+package org.example.Inheritance;
+
+import org.example.CreditCardApplication;
 
 // Inherited class for Standard Credit Card Application
 public class StandardCardApplication extends CreditCardApplication {

@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Abstraction;
 
 // Abstract class for application status management (Abstraction)
 public abstract class ApplicationStatusManager {

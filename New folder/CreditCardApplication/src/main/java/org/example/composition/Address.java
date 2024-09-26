@@ -1,4 +1,4 @@
-package org.example;
+package org.example.composition;
 
 // Address class: Part of composition
 public class Address {
