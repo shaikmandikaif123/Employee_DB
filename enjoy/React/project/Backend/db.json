@@ -1,0 +1,40 @@
+{
+  "Accounts": [
+    {
+      "userName": "kaif",
+      "AccountNumber": "1000001232",
+      "MobileNumber": "9701538243",
+      "id": 2
+    },
+    {
+      "userName": "vaishu",
+      "AccountNumber": "12341234",
+      "MobileNumber": "9701538243",
+      "id": 3
+    },
+    {
+      "userName": "shazaib",
+      "AccountNumber": "100034216",
+      "MobileNumber": "987654321",
+      "id": 6
+    },
+    {
+      "userName": "sameera",
+      "AccountNumber": "123456789",
+      "MobileNumber": "987654321",
+      "id": 9
+    },
+    {
+      "userName": "afroz",
+      "AccountNumber": "123456",
+      "MobileNumber": "987654",
+      "id": 10
+    },
+    {
+      "userName": "Yousuf ",
+      "AccountNumber": "1234",
+      "MobileNumber": "5678",
+      "id": 12
+    }
+  ]
+}
